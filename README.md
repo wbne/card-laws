@@ -1,2 +1,3 @@
-# card-laws
-A project...
+# CardLaws
+A virtual card game in the works.
+
